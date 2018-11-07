@@ -1,0 +1,46 @@
+{
+    "app_name": "Birthday Dungeon",
+    "main": "index.html",
+    "name": "Birthday Dungeon",
+    "version": "0.9.1c",
+    "webexe_settings": {
+        "blacklist": "",
+        "custom_script": "",
+        "download_dir": "",
+        "export_dir": "C:\\Users\\Julian\\Dropbox\\I'm an indie game dev!",
+        "force_download": false,
+        "mac-x64": false,
+        "nw_compression_level": 0,
+        "nw_version": "0.30.0",
+        "output_pattern": "",
+        "sdk_build": false,
+        "uncompressed_folder": false,
+        "whitelist": "",
+        "windows-x32": true,
+        "windows-x64": false
+    },
+    "webkit": {
+        "plugin": false
+    },
+    "window": {
+        "always_on_top": false,
+        "exe_icon": "presentIcon.png",
+        "frame": true,
+        "fullscreen": false,
+        "height": 1000,
+        "icon": "presentIcon.png",
+        "id": "bd",
+        "kiosk": false,
+        "kiosk_emulation": false,
+        "min_height": 600,
+        "min_width": 800,
+        "position": "center",
+        "resizable": true,
+        "show": true,
+        "show_in_taskbar": true,
+        "title": "Birthday Dungeon",
+        "toolbar": false,
+        "visible": false,
+        "width": 1200
+    }
+}
